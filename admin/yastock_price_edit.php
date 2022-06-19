@@ -83,6 +83,8 @@ if($ID > 0) {
             $arStock[$stock['PRODUCT_ID']] = $stock;
         }
     }
+    // YaStock\MarketStock::init($arStock);
+    // echo '<pre>'; print_r($condition); echo '</pre>';
 }
 
 $tabControl = new CAdminTabControl('tabControl', $aTabs, false);
