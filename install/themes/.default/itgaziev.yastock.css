@@ -1,0 +1,90 @@
+.input-class {
+    max-width: 320px;
+}
+table.table-stores {
+    width: 100%;
+}
+.box {
+    background-color: #efefef;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+i.remove-row-store {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    font-style: normal;
+    font-size: 15px;
+    cursor: pointer;
+}
+.select2.select2-container {
+    width: 100%;
+}
+
+span.add-rule {
+    text-decoration: underline;
+    font-size: 12px;
+    text-transform: lowercase;
+    color: #97ba00;
+    text-decoration-style: dashed;
+    cursor: pointer;
+}
+
+span.remove-rule {
+    text-decoration: underline;
+    font-size: 12px;
+    text-transform: lowercase;
+    color: #ba5a00;
+    text-decoration-style: dashed;
+    cursor: pointer;
+}
+span.remove-rule-group {
+    text-decoration: underline;
+    font-size: 12px;
+    text-transform: lowercase;
+    color: #ba5a00;
+    text-decoration-style: dashed;
+    cursor: pointer;
+}
+.add-rule-group {
+    text-decoration: underline;
+    font-size: 12px;
+    text-transform: lowercase;
+    color: #97ba00;
+    text-decoration-style: dashed;
+    cursor: pointer;
+}
+.condition-rule-item > .colums {
+    margin-right: 1rem;
+}
+.condition-rule-item > .colums:last-child {
+    margin-right: 0;
+}
+.condition-rule-item > .colums:nth-child(2), .condition-rule-item > .colums:nth-child(4) {
+    width: 20%;
+}
+
+.condition-rule-item > .colums:nth-child(1), .condition-rule-item > .colums:nth-child(3) {
+    width: 30%;
+}
+
+.condition-rule-item {
+    display: flex;
+    flex-direction: row;
+}
+
+select.condition-select, .condition-input {
+    width: 100%;
+}
+
+.myProgress {
+    width: 100%;
+    background-color: #FFF;
+}
+
+.myBar {
+  width: 0%;
+  height: 20px;
+  background-color: green;
+}

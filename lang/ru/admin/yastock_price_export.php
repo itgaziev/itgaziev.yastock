@@ -1,0 +1,7 @@
+<?php
+$MESS['ITGAZIEV_YASTOCK_PRICE_EXPORT_TAB0'] = 'Выгрузка прайса';
+$MESS['ITGAZIEV_YASTOCK_PRICE_EXPORT_TAB0_TITLE'] = 'Выгрузка прайса';
+$MESS['ITGAZIEV_YASTOCK_PRICE_EXPORT_TITLE'] = 'Выгрузка прайса';
+
+$MESS['ITGAZIEV_YASTOCK_PRICE_BACK'] = 'Вернуться';
+$MESS['ITGAZIEV_YASTOCK_PRICE_BACK_TITLE'] = 'Вернуться в список';

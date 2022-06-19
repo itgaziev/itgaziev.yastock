@@ -1,0 +1,15 @@
+<?php
+$MESS['ITGAZIEV_YASTOCK_PRICE_SAVE_ERROR'] = "Ошибка сохранения #ID#";
+$MESS['ITGAZIEV_YASTOCK_PRICE_DELETE_ERROR'] = "Не удалось удалить: #ID#";
+$MESS['ITGAZIEV_YASTOCK_PRICE_TABLE_NAME'] = "Название";
+$MESS['ITGAZIEV_YASTOCK_PRICE_TABLE_TIME_CREATE'] = "Дата создание";
+$MESS['ITGAZIEV_YASTOCK_PRICE_TABLE_RUN_PROCESS'] = "Создать прайс";
+$MESS['ITGAZIEV_YASTOCK_PRICE_EDIT_BTN'] = "Изменить прайс";
+$MESS['ITGAZIEV_YASTOCK_PRICE_DELETE_BTN'] = "Удалить прайс";
+$MESS['ITGAZIEV_YASTOCK_PRICE_DELETE_CONFIRM'] = "Вы уверены что хотите удалить прайс?";
+$MESS['ITGAZIEV_YASTOCK_PRICE_LIST_SELECTED'] = "Выбранные прайсы";
+$MESS['ITGAZIEV_YASTOCK_PRICE_LIST_CHECKED'] = "Кол-во выбранных прайсов";
+$MESS['ITGAZIEV_YASTOCK_PRICE_ADD_TEXT'] = "Создать прайс";
+$MESS['ITGAZIEV_YASTOCK_PRICE_ADD_TITLE'] = "Создать новый прайс";
+$MESS['ITGAZIEV_YASTOCK_PRICE_LIST_TITLE'] = "Список прайсов";
+$MESS['ITGAZIEV_YASTOCK_PRICE_FILTER_FIND_NAME'] = "Поиск по названию";
